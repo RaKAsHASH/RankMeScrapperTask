@@ -65,6 +65,6 @@ The main objectives of the project are:
 
 
 # Here are sample of Project Testing
-![Screenshot](./ProofOfConcept/Screenshot%202024-12-04%20at%202.35.33%20PM.png "Application Screenshot")
-![Screenshot](./ProofOfConcept/Screenshot%202024-12-04%20at%202.35.44%20PM.png "Application Screenshot")
-![Screenshot](./ProofOfConcept/Screenshot%202024-12-04%20at%202.36.22%20PM.png "Application Screenshot")
+![Screenshot](./TestingScreenShots/Screenshot%202024-12-04%20at%202.35.33%20PM.png "Application Screenshot")
+![Screenshot](./TestingScreenShots/Screenshot%202024-12-04%20at%202.35.44%20PM.png "Application Screenshot")
+![Screenshot](./TestingScreenShots/Screenshot%202024-12-04%20at%202.36.22%20PM.png "Application Screenshot")
